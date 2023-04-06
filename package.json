@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/chen-chens/practice-todolist-by-Node/issues"
   },
-  "homepage": "https://github.com/chen-chens/practice-todolist-by-Node#readme"
+  "homepage": "https://github.com/chen-chens/practice-todolist-by-Node#readme",
+  "dependencies": {
+    "nodemon": "^2.0.22"
+  }
 }
